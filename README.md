@@ -97,23 +97,24 @@ Adicionalmente se puede incluir boostrap mediante un paqute de gestión de depen
 ```
 
 Bootstrap proporciona una serie de propiedades y clases que puedes utilizar para personalizar el aspecto y el comportamiento de tus elementos. Algunas de las propiedades más relevantes incluyen:
--**Grid System:** Bootstrap utiliza un sistema de cuadrícula flexible que te permite crear diseños responsivos fácilmente. 
--**Clases de Estilos:** Bootstrap ofrece una amplia gama de clases de estilo que puedes aplicar a elementos HTML para darles formato de manera rápida. 
--**Componentes:** Bootstrap incluye una variedad de componentes predefinidos como barras de navegación, carruseles, modales, etc., que puedes personalizar y utilizar. 
--**Variables y Temas:** Puedes personalizar los colores, fuentes y otros aspectos visuales de Bootstrap utilizando variables CSS y temas. 
--**JavaScript:** Bootstrap incluye JavaScript para mejorar la funcionalidad de tus páginas web, como modales, botones desplegables y más.
--**Clases de Rejilla (Grid Classes):** Bootstrap ofrece un sistema de rejilla basado en clases como container, row, y col que te permiten crear diseños responsivos y flexibles para tus contenidos.
--**Clases de Tipografía:** Puedes utilizar clases como text-center, text-primary, text-muted, etc., para modificar la apariencia del texto y los elementos tipográficos.
--**Clases de Espaciado (Spacing Classes):** Bootstrap proporciona clases para ajustar el espaciado, como mb-3 (margin-bottom), mt-4 (margin-top), px-5 (padding-horizontal), etc.
--**Clases de Color:** Bootstrap incluye clases para cambiar el color de fondo y el texto, como bg-primary y text-white, que puedes aplicar a elementos como botones y encabezados.
--**Clases de Botones:** Puedes utilizar clases como btn, btn-primary, btn-danger, etc., para estilizar botones y crear diferentes estilos de botones.
--**Clases de Formularios:** Bootstrap ofrece clases para estilizar formularios y sus elementos, como form-control, form-group, input-group, entre otras.
--**Clases de Navegación:** Para crear barras de navegación y menús de navegación, puedes utilizar clases como navbar, navbar-expand-lg, nav, nav-item, nav-link, etc.
--**Componentes Personalizables:** Bootstrap permite personalizar componentes individuales, como modales, pestañas, alertas, y más, utilizando atributos y clases específicas para cada componente.
--**Clases de Visibilidad:** Puedes controlar la visibilidad de elementos en diferentes tamaños de pantalla utilizando clases como d-none y d-lg-block.
--**Clases de Ocultamiento y Muestra:** Bootstrap proporciona clases como hidden (ocultar) y visible para mostrar u ocultar elementos en función de las necesidades de diseño y dispositivos.
--**Clases de Desplazamiento (Scrollspy):** Para resaltar automáticamente los elementos de navegación a medida que se desplaza por la página, puedes utilizar clases de desplazamiento como data-spy="scroll" y data-target="#miNavegacion".
--**Clases de Responsividad:** Bootstrap incluye clases para mostrar u ocultar elementos en dispositivos específicos, como d-md-none (ocultar en dispositivos medianos), d-lg-block (mostrar en dispositivos grandes), etc.
+
+- **Grid System:** Bootstrap utiliza un sistema de cuadrícula flexible que te permite crear diseños responsivos fácilmente. 
+- **Clases de Estilos:** Bootstrap ofrece una amplia gama de clases de estilo que puedes aplicar a elementos HTML para darles formato de manera rápida. 
+- **Componentes:** Bootstrap incluye una variedad de componentes predefinidos como barras de navegación, carruseles, modales, etc., que puedes personalizar y utilizar. 
+- **Variables y Temas:** Puedes personalizar los colores, fuentes y otros aspectos visuales de Bootstrap utilizando variables CSS y temas. 
+- **JavaScript:** Bootstrap incluye JavaScript para mejorar la funcionalidad de tus páginas web, como modales, botones desplegables y más.
+- **Clases de Rejilla (Grid Classes):** Bootstrap ofrece un sistema de rejilla basado en clases como container, row, y col que te permiten crear diseños responsivos y flexibles para tus contenidos.
+- **Clases de Tipografía:** Puedes utilizar clases como text-center, text-primary, text-muted, etc., para modificar la apariencia del texto y los elementos tipográficos.
+- **Clases de Espaciado (Spacing Classes):** Bootstrap proporciona clases para ajustar el espaciado, como mb-3 (margin-bottom), mt-4 (margin-top), px-5 (padding-horizontal), etc.
+- **Clases de Color:** Bootstrap incluye clases para cambiar el color de fondo y el texto, como bg-primary y text-white, que puedes aplicar a elementos como botones y encabezados.
+- **Clases de Botones:** Puedes utilizar clases como btn, btn-primary, btn-danger, etc., para estilizar botones y crear diferentes estilos de botones.
+- **Clases de Formularios:** Bootstrap ofrece clases para estilizar formularios y sus elementos, como form-control, form-group, input-group, entre otras.
+- **Clases de Navegación:** Para crear barras de navegación y menús de navegación, puedes utilizar clases como navbar, navbar-expand-lg, nav, nav-item, nav-link, etc.
+- **Componentes Personalizables:** Bootstrap permite personalizar componentes individuales, como modales, pestañas, alertas, y más, utilizando atributos y clases específicas para cada componente.
+- **Clases de Visibilidad:** Puedes controlar la visibilidad de elementos en diferentes tamaños de pantalla utilizando clases como d-none y d-lg-block.
+- **Clases de Ocultamiento y Muestra:** Bootstrap proporciona clases como hidden (ocultar) y visible para mostrar u ocultar elementos en función de las necesidades de diseño y dispositivos.
+- **Clases de Desplazamiento (Scrollspy):** Para resaltar automáticamente los elementos de navegación a medida que se desplaza por la página, puedes utilizar clases de desplazamiento como data-spy="scroll" y data-target="#miNavegacion".
+- **Clases de Responsividad:** Bootstrap incluye clases para mostrar u ocultar elementos en dispositivos específicos, como d-md-none (ocultar en dispositivos medianos), d-lg-block (mostrar en dispositivos grandes), etc.
 
 
 Ejemplo de una página utilizando Bootstrap:
